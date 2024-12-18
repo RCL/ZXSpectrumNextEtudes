@@ -1,0 +1,1 @@
+sjasmplus --lst NextSizeCodingExample.asm 
