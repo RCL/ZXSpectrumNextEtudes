@@ -1,4 +1,4 @@
-# nxiview.dot
+# nxiview
 
 A NextZXOS dot command that displays an NXI image on Layer 2.
 

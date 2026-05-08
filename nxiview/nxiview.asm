@@ -1,4 +1,4 @@
-; nxiview.dot - display an NXI image on Layer 2.
+; nxiview - display an NXI image on Layer 2.
 ; Vibe-coded by RCL/VVG, with the testing and debugging support from Pinkie_Pie
 ;
 ; Sizes (after optional 128B PLUS3DOS header):
